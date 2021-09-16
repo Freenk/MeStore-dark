@@ -1,0 +1,462 @@
+
+
+
+@font-face {
+    font-family:Mulish;
+    src: url(../font/Mulish/Mulish-Regular.woff);
+}
+
+/*---------------------------- Notebook 992px ----------------------------*/
+
+@media (max-width: 992px) {
+    
+ /*---------------------------- Earnings Section ----------------------------*/ 
+
+
+    .right-main .earnings-section {
+        margin-top:30px;
+        background: #212B36;
+        border: 1px solid #3C4752;
+        box-sizing: border-box;
+        border-radius: 12px;
+    }
+
+    .right-main .earnings-section .earnings-navbar-right {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .right-main .earnings-section .earnings-navbar-left {
+        padding-left:0;
+        padding-right:0;
+
+    }
+
+    .right-main .earnings-section .earnings-navbar-right div {
+        display: inline-block;
+        padding-left:0px;
+    }
+    
+    
+    .right-main .earnings-section .earnings-navbar-right .earnings-right-profit {
+        display: inline-block;
+        padding-left:80px;
+    }
+
+    .right-main .earnings-section .earnings-navbar-right .earnings-form {
+        display: inline-block;
+        padding-left:75px;
+    }
+    
+    .right-main .earnings-section .earnings-navbar-right .earnings-right {
+        position: relative;
+        display: inline-block;
+        padding-left:30px;
+    }
+    
+    .right-main .earnings-section .earnings-navbar-right .earnings-right li {
+        display: inline-block;
+        position: absolute;
+        top:32.5px;
+        padding-left:px;
+        font-size:14px;
+        line-height: 20px;
+        letter-spacing: 0.4px;
+        color:white;
+    }
+
+
+    .right-main .earnings-section .earnings-navbar-right .earnings-right .earnings-button-1 {
+        position: absolute;
+        top:35px;
+        padding:7px 7px;
+        
+    }
+    
+    .right-main .earnings-section .earnings-navbar-right .earnings-right .earnings-right-profit .earnings-button-2 {
+        position: absolute;
+        top:35px;
+        padding:7px 7px;
+        
+    }
+    
+    
+    .right-main .earnings-section .earnings-scala {
+        
+        margin-bottom:20px;
+        padding-left: 20px;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item {
+        display: inline-block;
+        padding-left:6px;
+        margin-top:20px;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item2 {
+        display: inline-block;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item2 img {
+        padding-left:50.5px;
+    }
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item {
+        display: inline-block;
+        margin-top:10px;
+        padding-left:0px;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item li{
+        
+        padding-left:0px;
+        font-size: 14px;
+    }
+   
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item2 li {
+        padding-left:28px;
+        font-size: 14px;
+        line-height: 20px;
+        
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item {
+        padding-left:30px;
+        position: relative;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item img {
+        top:-250px;
+        left:5px;
+        width:96.8%;
+    }
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item .earnings-scala-image-button{
+        position: absolute;
+        width:15px;
+        height:auto;
+        left:340px;
+        margin-top:35px;
+    }
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item {
+        display: inline-block;
+        margin-top:10px;
+        padding-left:0px;
+    }
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item li {
+        font-size: 14px;
+        
+    }
+    
+    
+    /*---------------------------- Table Section 992px ----------------------------*/
+
+
+    .right-main .right-list .right-list-items .right-list-item .right-list-li-2 {
+        right:7px;
+        font-size:10px;
+    }
+}
+
+
+/*---------------------------- Table 768px ----------------------------*/
+
+@media (max-width: 768px) {
+
+    /*---------------------------- Left Main Section 768px ----------------------------*/
+
+    .main-section .left-main .main-ul .main-ul_dashboart {
+        padding-left:5px;
+    }
+    
+    
+    .main-section .left-main .main-ul .main-ul_earnings {
+        padding-left:5px;
+    }
+    
+    .main-section .left-main .main-ul .main-ul_earnings-li {
+        padding-left:30px;
+    }
+    
+    .main-section .left-main .main-ul li {
+        font-size:12px;
+        padding-left:25px;
+    }
+
+    /*---------------------------- Right Navbar 768px ----------------------------*/
+
+
+    .right-main .right-navbar-2 a {
+        padding-left:20px;
+    }
+    
+    
+    /*---------------------------- Radio Secction 768px ----------------------------*/
+
+
+    .main-section .left-main .main-radio {
+        margin-top:80px;
+        text-align: right;
+        padding-right:15px;
+        margin-bottom: 20px;
+    }
+
+
+    /*---------------------------- Earning Section 768px ----------------------------*/
+
+
+    .right-main .earnings-section .earnings-navbar-left {
+        padding-left:0;
+        padding-right:0;
+
+    }
+
+    .right-main .earnings-section .earnings-navbar-left h1 {
+        padding: 30px 30px;
+        font-size:14px;
+        line-height: 25px;
+    }
+
+
+    .right-main .earnings-section .earnings-navbar-right div {
+        display: inline-block;
+        padding-left:15px;
+    }
+    
+
+    .right-main .earnings-section .earnings-navbar-right .earnings-form {
+        padding-left:75px;
+    }
+
+    /*---------------------------- Ernings Scala Section  768px; ----------------------------*/
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item2 img {
+        padding-left:50.8px;
+    }
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item img {
+        position: absolute;
+        top:-250px;
+        left:7px;
+        width:96.5%;
+    }
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item .earnings-scala-image-button{
+        position: absolute;
+        width:15px;
+        height:auto;
+        left:342px;
+        margin-top:35px;
+    }
+
+    /*---------------------------- Table Section 768px ----------------------------*/
+
+
+    .right-main .right-list  {
+        padding-right:0;
+        padding-left:0px;
+    }
+    
+    
+    .right-main .left-table .left-table-items .left-table-item {
+        width:100%;
+    }
+
+    
+    
+    /*---------------------------- Right List 768px ----------------------------*/
+    
+    
+    .right-main .right-list .right-list-items .right-list-item .right-list-li-1 {
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: 0.4px;
+        color: #FFFFFF;
+        padding-left:20px;
+    }
+
+
+    .right-main .right-list .right-list-items .right-list-item .right-list-li-2 {
+        position: absolute;
+        right:37px;
+        top:15px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 11px;
+        line-height: 17px;
+        letter-spacing: 0.4px;
+        color: #929292;
+    }
+}
+
+
+
+/*---------------------------- Mobile 576px ----------------------------*/
+
+
+@media (max-width: 576px ) {
+
+ /*---------------------------- Right Navbar 576px ----------------------------*/ 
+
+
+    .right-main .right-navbar-1 {
+        padding:0 0px;
+    }
+    
+
+    .right-main .right-navbar-2 {
+        margin-top:35px;
+    }
+    
+    .right-main .right-navbar-2 a {
+        padding-left:14px;
+    }
+    
+    /*---------------------------- Total Sales 576px ----------------------------*/
+    
+    .right-main .total-sales .total-sales-item .total-sales-border a{
+        border:1px;
+        padding:7px 7px;
+    }
+    
+    
+    .right-main .total-sales .total-sales-item .total-sales-text ul li {
+        text-decoration: none;
+        font-size:15px;
+        line-height: 29px;
+        letter-spacing: 0.4px;
+        color: #252733;
+    } 
+    
+    .right-main .total-sales .total-sales-item .total-sales-text ul .total-sales-li-2 {
+        display: block;
+    }
+
+
+    
+    .right-main .total-sales .total-sales-item .total-sales-text .total-sales-total {
+        font-size:12px;
+        line-height: 20px;
+        letter-spacing: 0.4px;
+        color: #929292;
+    }
+
+
+    /*---------------------------- Earnings Section 576px ----------------------------*/
+
+
+
+    .right-main .earnings-section .earnings-navbar-left h1 {
+        padding: 30px 15px;
+        font-size:14px;
+        
+    }
+    
+
+    .right-main .earnings-section .earnings-navbar-right .earnings-right {
+        position: relative;
+        display: inline-block;
+        padding-left:0px;
+    }
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item {
+        display: inline-block;
+        padding-left:16px;
+        margin-top: 25px;
+    }
+
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item img{
+        height:180px;
+    }
+
+
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item2 {
+        display: inline-block;
+        
+    }
+
+
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image__item2 img {
+        height:180px;
+        padding-left:32.5px;
+    }
+    
+
+
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item {
+        padding-left:5px;
+    }
+
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item li {
+        font-size:14px;
+        
+    }
+
+
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-years-item2 li {
+        display: inline-block;
+        padding-left:10px;
+        font-family: Mulish;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        letter-spacing: 0.2px;
+        color: #929292;
+    }
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item {
+        padding-left: 40px;
+
+    }
+    
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item img {
+        position: absolute;
+        left:17px;
+        top:-190px;
+        width:89%;
+    }
+    
+
+
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item .earnings-scala-image-img {
+        position:absolute;
+        top:-165px;
+    }
+
+
+    
+    .right-main .earnings-section .earnings-scala .earnings-scala-image2 .earnings-scala-image2-item .earnings-scala-image-button{
+        position: absolute;
+        width:12px;
+        height:auto;
+        left:240px;
+        margin-top:25px;
+    }
+
+    
+}
+
+
+
